@@ -1,1 +1,2 @@
 # Tolvugrafik
+Verkefni fyrir Tölvugrafík
